@@ -1,0 +1,15 @@
+Briefly explain Syntax and Semantics as use in computer science.
+
+In computer science, syntax and semantics refer to two different aspects of programming languages and other formal languages.
+
+Syntax refers to the set of rules that define the structure and format of a programming language. It specifies how the elements of a language, such as keywords, variables, and operators, can be combined to form valid expressions, statements, and programs. For example, in the C programming language, the syntax for declaring a variable is as follows:
+
+```
+data_type variable_name;
+```
+
+Here, "data_type" specifies the type of the variable (e.g., int, float, char), and "variable_name" is the name of the variable.
+
+Semantics, on the other hand, refers to the meaning of a programming language. It defines the behavior of the language constructs and how they interact with each other. Semantics determine what a program does when it is executed, based on its syntax. For example, in the C programming language, the semantics of the addition operator (+) define how two numeric values are added together.
+
+In summary, syntax defines the structure and format of a language, while semantics define its meaning and behavior. Both are important aspects of programming languages and must work together to create correct and functional programs.
